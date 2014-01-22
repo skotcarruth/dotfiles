@@ -1,0 +1,23 @@
+# misc
+.DS_Store
+__init__.py
+
+# Vim
+*.swo
+*.swp
+*.swn
+.netrwhist
+tags
+
+# Ruby/Rails
+/config/database.yml
+.rbx
+/.powrc
+/.rbenv-vars
+/.rbenv-version
+/.ruby-version
+/public/system
+
+# Node
+node_modules
+npm-debug.log
